@@ -13,11 +13,11 @@ print(f'Destination: {t.dest}')
 print(f'{t.origin} -> {t.text}')
 # print() 
 # # # 2) List supported languages
-# # from googletrans import LANGUAGES 8929385557 
+# # from googletrans import LANGUAGES  
 
 # # for lang in LANGUAGES:
 # #     print(f'{lang} - {LANGUAGES[lang]}')
-# # print() भाऊ, आणि वेळ दर्शविणे घाबरलेला कसे?
+# # print() 
 
 # # # 3) List possible mistakes and translations 
 # pm = t.extra_data['possible-mistakes']
